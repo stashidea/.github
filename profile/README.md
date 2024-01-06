@@ -4,10 +4,10 @@
 
 | Idea         | Count |
 | ------------ | ----- |
-| Total        | 8     |
+| Total        | 10     |
 | Release      | -     |
-| Development  | 3     |
-| Backlog      | 5     |
+| Development  | 4     |
+| Backlog      | 6     |
 | ------------ | ----- |
 | Investor     | -     |
 | Donation     | -     |
